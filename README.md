@@ -62,6 +62,9 @@ PORT = 3001
 `TEST_MONGODB_URI=mongodb+srv://<username>:<password>@cluster0.kqxmo.mongodb.net/farms-app-test?retryWrites=true&w=majority` (change username & password with username/password of admin user.)
 * Run command `npm run test`
 
+## TODO more
+* Add E2E testing for app with Cypress
+
 ## Demo pictures of project
 First view of app
 ![First view of app](https://i.ibb.co/nLbn4jN/01.png)
