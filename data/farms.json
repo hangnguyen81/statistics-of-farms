@@ -1,0 +1,30 @@
+[
+    {
+        "farmId": "farm202201061",
+        "name": "Noora's farm",
+        "address": "10 Keimolan tie, 01700 Vantaa, Finland",
+        "owner": "Keimo Kivistö",
+        "geometry": [60.31586,24.8484686]
+    },
+    {
+        "farmId": "farm202201062",
+        "name": "Friman Metsola collective",
+        "address": "Rekola, 01400 Vantaa, Finland",
+        "owner": "Metso Frinen  ",
+        "geometry": [60.3294982, 25.0825125]
+    },
+    {
+        "farmId": "farm202201063",
+        "name": "Organic Ossi's Impact That Lasts plantation",
+        "address": "Liesitori 1, 01600 Vantaa",
+        "owner": "Ossi Kerava",
+        "geometry": [60.2666656, 24.8499966]
+    },
+    {
+        "farmId": "farm202201064",
+        "name": "PartialTech Research Farm",
+        "address": "Tikkurilantie 136, 01510 Vantaa, Finland",
+        "owner": "Ville Turvinen",
+        "geometry": [60.29666667, 25.03333333]
+    }
+]
