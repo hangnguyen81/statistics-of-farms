@@ -7,11 +7,11 @@ const swaggerDefinition = {
     description: 'An Express API for farms and data of farms',
     contact: {
       name: 'Statistics of Farms by Hang Nguyen',
-      url: 'http://localhost:3001',
+      url: 'https://mighty-bastion-19386.herokuapp.com/',
     },
   },
   servers:[{
-    url: 'http://localhost:3001',
+    url: 'https://mighty-bastion-19386.herokuapp.com/',
     description: 'Development server'
   }]
 };
