@@ -63,6 +63,7 @@ PORT = 3001
 * Run command `npm run test`
 
 ## TODO more
+* Add UI for managing farm data and user
 * Add E2E testing for app with Cypress
 
 ## Demo pictures of project
