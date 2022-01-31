@@ -12,6 +12,10 @@ const swaggerDefinition = {
   },
   servers:[{
     url: 'https://mighty-bastion-19386.herokuapp.com/',
+    description: 'Production server'
+  },
+  {
+    url: 'http://localhost:3001/',
     description: 'Development server'
   }]
 };
