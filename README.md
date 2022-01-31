@@ -15,6 +15,7 @@ The Statistics of Farm project aim to provide a web service which displays data 
 
 ## Technology choices
 This project was built with MERN tech stack (MongoDB, Express, React and Nodejs).
+API-testing with Jest, supertest
 
 ## Prerequisites
 * Node.js with npm shoulde be installed in local computer, version 14.17.4 (node.js) - 6.14.14(npm) or higher, [Download node.js included npm here](https://nodejs.org/en/download/)
@@ -60,6 +61,9 @@ PORT = 3001
 * Open `.env`, create new environment variable for testing
 `TEST_MONGODB_URI=mongodb+srv://<username>:<password>@cluster0.kqxmo.mongodb.net/farms-app-test?retryWrites=true&w=majority` (change username & password with username/password of admin user.)
 * Run command `npm run test`
+
+## TODO more
+* Add E2E testing for app with Cypress
 
 ## Demo pictures of project
 First view of app
