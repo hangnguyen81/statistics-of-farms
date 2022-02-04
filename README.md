@@ -7,7 +7,7 @@ The Statistics of Farm project aim to provide a web service which displays data 
 - [x] Show data of farm in table format
 - [x] Pagination of display data 
 - [x] Filtering data by name of farms; type of metrics (sensorType) and date (day, month and year)
-- [x] Parsing and validation of CSV data ([Data Source from Solita](https://github.com/solita/dev-academy-2022-exercise)); converted to JSON already.
+- [x] Parsing and validation of CSV data ([Data Source from Solita](https://github.com/solita/dev-academy-2022-exercise)); I converted to JSON format, clean and remove invalid data.
 - [x] Endpoints to fetch data from farms with different granularities (by month, by metric)
 - [x] Endpoints to store new data of farm
 - [x] Endpoint to managing farms (create, view, delete and update)
